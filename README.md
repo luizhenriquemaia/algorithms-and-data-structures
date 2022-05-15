@@ -1,4 +1,4 @@
-# algorithms-and-data-structures
+# Algorithms and data structures
 
 this repository was made with the aim of studying algorithms and data structure
 
